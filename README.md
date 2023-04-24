@@ -16,7 +16,7 @@
      <img align="center" alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Sou um desenvolvedor focado em aprender sempre mais sobre tecnologia, que entende que resolver problemas é um de seus objetivos de vida.
+Apaixonado por tecnologia e por contribuir na vida das pessoas através da programação.
 <br>
 
 - Email: gusta.flavio@outlook.com
