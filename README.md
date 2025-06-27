@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Gustavo Almeida Flavio, tenho 22 anos e sou de São Paulo. Atualmente, estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na UNICSUL. Sou apaixonado por tecnologia e aprimorando minhas habilidades em JavaScript, HTML, CSS, e mercado SAP através de cursos online e projetos pessoais.
+Me chamo Gustavo Almeida Flavio, tenho 23 anos e sou de São Paulo. Atualmente, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na UNICSUL. Sou apaixonado por tecnologia e aprimorando minhas habilidades em JavaScript, HTML, CSS, e mercado SAP através de cursos online e projetos pessoais.
 <br>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fl%C3%A1vio-6920141a4/)
