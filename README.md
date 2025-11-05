@@ -26,18 +26,6 @@ Tenho interesse em soluções empresariais e integração de sistemas, buscando 
 <br>
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fl%C3%A1vio-6920141a4/)
     <a href="GitHub: https://github.com/GustavoFlavio20">
         <img 
@@ -47,9 +35,6 @@ Tenho interesse em soluções empresariais e integração de sistemas, buscando 
         />
     </a>
 </p>
-
-
-
 
 ---
 
@@ -79,21 +64,21 @@ Tenho interesse em soluções empresariais e integração de sistemas, buscando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+   <img 
+       align="left"
+       alt="SAP logo"
+       title="SAP"
+       width="40px" 
+       style="padding-right: 10px;"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sap.svg"
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    <img 
+        align="left"
+        alt="Groovy logo"
+        title="Groovy"
+        width="40px" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/groovy.svg" 
 />
 <img 
     align="left" 
