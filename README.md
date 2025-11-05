@@ -21,12 +21,6 @@ Tenho interesse em soluções empresariais e integração de sistemas, buscando 
 - Processos de negócio e ERP <br>
 - Aprendizado contínuo em tecnologias de integração e automação <br>
 <br>
-🧩 Sobre mim
-<br>
-<br>
-Sou apaixonado por tecnologia e por entender como diferentes sistemas se conectam para gerar eficiência nos negócios.  
-Busco constantemente aprender, aplicar novos conhecimentos em projetos práticos e compartilhar minha evolução, sempre em busca de novos desafios no universo SAP e sistemas corporativos.
-<br>
 <br>
 📫 Vamos Conectar!
 <br>
