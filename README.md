@@ -1,9 +1,48 @@
-# 👨‍💻 Gustavo Flavio
+# 👨‍💻 Gustavo Almeida Flavio
 
-**`Desenvolvedor de Software`**
+**`Consultor Júnior de Integração`**
 
-Me chamo Gustavo Almeida Flavio, tenho 23 anos e sou de São Paulo. Atualmente, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na UNICSUL. Sou apaixonado por tecnologia e aprimorando minhas habilidades em JavaScript, HTML, CSS, através de cursos online e projetos pessoais.
+👋 Olá! Sou o Gustavo Almeida Flávio, tenho 23 anos e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas na UNICSUL.
+Estou me especializando em integrações SAP, com foco no SAP Integration Suite e no ecossistema SAP BTP, explorando como as empresas conectam e automatizam seus processos através de integrações, APIs e mapeamentos de dados.
+Tenho interesse em soluções empresariais e integração de sistemas, buscando unir visão técnica e entendimento de negócios. Além disso, sigo aprimorando minha base em lógica de programação, Groovy e XML, aplicando esses conhecimentos em projetos práticos que compartilho aqui no GitHub.
 <br>
+<br>
+🎯 Foco Atual 
+- Integrações entre sistemas empresariais (SAP e não-SAP) <br>
+- Automação de processos de negócio via <b>SAP Integration Suite</b><br>
+- Criação e consumo de **APIs**  
+- Manipulação e transformação de dados em <b>XML</b>,<b>JSON</b> e <b>Groovy</b>
+<br>
+💡 Áreas de Interesse 
+<br>
+<br>
+- Integrações corporativas e arquitetura de sistemas <br>
+- Plataformas <b>SAP BTP</b> e <b>cloud computing</b><br>
+- Processos de negócio e ERP <br>
+- Aprendizado contínuo em tecnologias de integração e automação <br>
+<br>
+🧩 Sobre mim
+<br>
+<br>
+Sou apaixonado por tecnologia e por entender como diferentes sistemas se conectam para gerar eficiência nos negócios.  
+Busco constantemente aprender, aplicar novos conhecimentos em projetos práticos e compartilhar minha evolução, sempre em busca de novos desafios no universo SAP e sistemas corporativos.
+<br>
+<br>
+📫 Vamos Conectar!
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fl%C3%A1vio-6920141a4/)
     <a href="GitHub: https://github.com/GustavoFlavio20">
