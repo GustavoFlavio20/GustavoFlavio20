@@ -17,7 +17,7 @@ Tenho interesse em soluções empresariais e integração de sistemas, buscando 
 <br>
 <br>
 - Integrações corporativas e arquitetura de sistemas <br>
-- Plataformas <b>SAP BTP</b> e <b>cloud computing</b><br>
+- Plataformas <b>SAP BTP</b> e <b>Cloud Computing</b><br>
 - Processos de negócio e ERP <br>
 - Aprendizado contínuo em tecnologias de integração e automação <br>
 <br>
