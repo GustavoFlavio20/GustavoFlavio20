@@ -11,7 +11,7 @@ Tenho interesse em soluções empresariais e integração de sistemas, buscando 
 - Integrações entre sistemas empresariais (SAP e não-SAP) <br>
 - Automação de processos de negócio via <b>SAP Integration Suite</b><br>
 - Criação e consumo de **APIs**  
-- Manipulação e transformação de dados em <b>XML</b>,<b>JSON</b> e <b>Groovy</b>
+- Manipulação e transformação de dados em <b>XML</b>, <b>JSON</b> e <b>Groovy</b>
 <br>
 💡 Áreas de Interesse 
 <br>
