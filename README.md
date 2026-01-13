@@ -125,6 +125,7 @@ Tenho interesse em soluções empresariais e integração de sistemas, buscando 
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoFlavio20&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
+    src="[https://github-readme-stats.vercel.app/api?username=GustavoFlavio20&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-b](https://github-readme-stats.vercel.app/api?username=GustavoFlavio20&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br
+)r">
 
 </p>
