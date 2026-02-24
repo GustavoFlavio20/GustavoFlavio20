@@ -2,7 +2,7 @@
 
 **`Consultor Júnior de Integração`**
 
-👋 Olá! Sou o Gustavo Almeida Flávio, tenho 23 anos e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas na UNICSUL.
+👋 Olá! Sou o Gustavo Almeida Flávio, tenho 23 anos e atualmente graduado em Análise e Desenvolvimento de Sistemas na UNICSUL.
 Estou me especializando em integrações SAP, com foco no SAP Integration Suite e no ecossistema SAP BTP, explorando como as empresas conectam e automatizam seus processos através de integrações, APIs e mapeamentos de dados.
 Tenho interesse em soluções empresariais e integração de sistemas, buscando unir visão técnica e entendimento de negócios. Além disso, sigo aprimorando minha base em lógica de programação, Groovy e XML, aplicando esses conhecimentos em projetos práticos que compartilho aqui no GitHub.
 <br>
