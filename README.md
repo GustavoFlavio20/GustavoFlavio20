@@ -33,14 +33,6 @@ Neste GitHub compartilho projetos desenvolvidos durante meus estudos e experiên
 <br>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fl%C3%A1vio-6920141a4/)
-    <a href="GitHub: https://github.com/GustavoFlavio20">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GustavoFlavio20?color=BA55D3&labelColor=9370DB&style=for-the-badge&logo=github-add&label=Github&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
